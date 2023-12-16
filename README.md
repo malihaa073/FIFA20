@@ -5,6 +5,11 @@ FIFA 2020 is a 2D  game. The game made use of various iGraphics features. The fo
 ## Screenshots
 
 ![App Screenshot](FIFA20/home.jpeg)
+![App Screenshot](FIFA20/Instrction.jpeg)
+![App Screenshot](FIFA20/Participate.jpeg)
+![App Screenshot](FIFA20/game.jpeg)
+![App Screenshot](FIFA20/goal.jpeg)
+![App Screenshot](FIFA20/AboutUs.jpeg)
 
 
 ## Tech Stack
